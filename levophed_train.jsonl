@@ -1,0 +1,543 @@
+{"text": "<s>[INST] levophed 1Vial in D5W 46ml run 1ml change to run 0.5ml/hr about 0.65 mcg/min(0-20ml/hr to keep SBP > 90mmHg) [\/INST] Answer：levophed, 0.5ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml)4A run 0-30cc keep MAP>65mmHg,now run 11 cc/hr [\/INST] Answer：levophed, 11cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4A+D5W 250cc run 0-20㏄ to keep MAP>65mmHg，now run 1.2 change to 2 cc/he(1mcg_min) [\/INST] Answer：levophed, 2cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml)4A run 0-30cc keep MAP>65mmHg,now run 20 run 26 ml/hr(20.0ug/min) [\/INST] Answer：levophed, 26cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amps run 3 ml/hr run run 13ml/hr (about 0 ug/min,range 0-32ml/hr) [\/INST] Answer：levophed, 13ml/hr <\/s>"}
+{"text": "<s>[INST] D5W 250cc+levophed(4mg/4ml) 4A run 0-30cc keep MAP>65mmHg，now run 6 change to 5 ml/hr(5ug/min) [\/INST] Answer：levophed, 5cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 12.5mg+D5W 50ml/hr run (mcg/kg/min) [\/INST] Answer：levophed, 50ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vialmp+D5W 250ml run 0.5cc/he change to 2cc/he [\/INST] Answer：levophed, 2cc/hr <\/s>"}
+{"text": "<s>[INST] levophed run6 cc/hr [\/INST] Answer：levophed, 6 ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 16mg in D5W 250cc run 19cc(31.8mcg/min) range 0-30cc/hr，Keep MAP>65mmHg [\/INST] Answer：levophed, 19cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/amp)4amp in D5W 250ml run 20ml run 40 ml/hr(about：4mcg/min，range：0-40ml to keep MAP>70mmHg) [\/INST] Answer：levophed, 40ml/hr <\/s>"}
+{"text": "<s>[INST] D5W 250cc+levophed 4vial run 10cc/hr，run D5W run 100cc/hr [\/INST] Answer：levophed, 10cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vialmp+D5W 250ml run 0.6 cc/he  run  3cc/he [\/INST] Answer：levophed, 3cc/hr <\/s>"}
+{"text": "<s>[INST] D5W 250ml+levophed 4vial run 1cc_hr run ro 0cc_hr [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/vial) 4vialial in D5W 250ml run 3cc/he change run to 5.3 [\/INST] Answer：levophed, 5.3 cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amps in D5W 250ml run 3 change to 14 c/hr about 2mcg/min(±3cc/hr，range：0-30ml/hr，keep SBP>90mmHg) [\/INST] Answer：levophed, 14cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 2vialmp in D5W 250ml  run  9cc_hr run 0cc_hr （ Run 10 cc_hr +- 2 cc_hr [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amps run 28 ml/hr(about 28.62ug/min,range 0 - 40 ml/hr to keep SBP > 90mmHg) [\/INST] Answer：levophed, 28ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 16mg in D5W 250cc run 18cc(31.8mcg/min) range 0-30cc/hr，Keep MAP>65mmHg [\/INST] Answer：levophed, 18cc/hr <\/s>"}
+{"text": "<s>[INST] D5W 250ml+levophed 4vial(4mg/4ml)run 0-30ml run keep SBP>90mmHg now run 3 run cc_hr(3mcg_min)tapping OFF [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amps run 3ml/hr run run 14 ml/hr (about 1.06ug/min,range 0-40ml/hr to keep MAP>65mmHg) [\/INST] Answer：levophed, 14ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4cc) 2amp run 9cc(5.3ug/min). [\/INST] Answer：levophed, 9cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vial+D5W 250ml run 0~30ml, +-2cc_hr,keep MAP>65，now run 20 run 15cc_hr [\/INST] Answer：levophed, 15ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vialmps run 6.5cc_hr run 6cc_hr [\/INST] Answer：levophed, 6ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 8mg in D5W 125ml range 0-20cc/hr to keep MAP>65mmHg，now run run 13cc/hr(3.18mcg/min) [\/INST] Answer：levophed, 13cc/hr <\/s>"}
+{"text": "<s>[INST] D5W for drip D5W 250ml+levophed 4vialrun run 30cc_hr D5W 50ml+ [\/INST] Answer：levophed, 30ml/hr <\/s>"}
+{"text": "<s>[INST] levophed inj 4mg/4ml  PRN/IVD  4vialial  in D5W 250 ml, +/-1 cc_hr, keep SBP>90mmHg, Max 15cc_hr [\/INST] Answer：levophed, 15ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 12.5mg+D5W 40ml/hr run (mcg/kg/min) [\/INST] Answer：levophed, 40ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amp in D5W 250ml now run 14ml/hr change to 23ml/hr about to 12.72ug/min(maximum infusion rate: 21ml/hr, keep MAP>65mmHg) [\/INST] Answer：levophed, 23ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 12.5mg+D5W 50ml/hr change to 6ml/hr(mcg/kg/min) [\/INST] Answer：levophed, 6ml/hr <\/s>"}
+{"text": "<s>[INST] D5W 250cc levophed(4㎎)2vial range 2ml/hr to 5.8cc/hr use to run  [\/INST] Answer：levophed, 5.8 ㏄/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amps in D5W 250ml run 3 change to 12cc/hr about 2mcg/min(±3cc/hr，range：0-30ml/hr，keep SBP>90mmHg) [\/INST] Answer：levophed, 12cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 8vial run change to 1 cc/he [\/INST] Answer：levophed, 1ml/hr <\/s>"}
+{"text": "<s>[INST] D5W 250ml+levophed 4 vial run 0 cc_hr(range 0-30cc_hr run keep SBP>90mmHg) [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4V in D5W 250ml run 31ml/hr about 31.8mcg/min to keep SBP>90mmHg(range 0-30ml/hr) [\/INST] Answer：levophed, 31ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vial +D5W 250ml run to 8 cc(about 5mcg/min, range 0-30cc/hr keep MAP >65mmHg、A-line stay(op site cove [\/INST] Answer：levophed, 8cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4㎎/4ml)4A run 0~20㏄/hr to keep SBP >90mmHg，now run 6cc/hr( 6.0ug/min) [\/INST] Answer：levophed, 6cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 12.5mg+D5W 70ml/hr change to (mcg/kg/min) [\/INST] Answer：levophed, None <\/s>"}
+{"text": "<s>[INST] levophed 4amp(4mg/4cc) ,run 0-10mL/hr, keep MAP>65mmHg or SBP>90mmHg，now run 1.5 run 1.6cc/hr(1ug/min) use [\/INST] Answer：levophed, 1.6cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/amp)4AMPS in D5W 250ml run 3cc/hr to 9/hr (about 2mcg/min) keep SBP>92mmHg [\/INST] Answer：levophed, 9cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4ml/4mg)in D5W 250ml run 7cc_hr(about 4mcg_min)keep MAP>65  run 1 DC [\/INST] Answer：levophed, 7ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 1vialmp +D5W 46ml run 3cc_hr run 0cc_hr [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(250mg/20mL) 2vials in N/S 210cc run 18.1ml/hr(about：10mcg/kg/min，range 3~20ug/kg/min to keep C.I.>2.2) [\/INST] Answer：levophed, 18.1ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4ml/4mg)in D5W 250ml run 5cc_hr(about 4mcg_min)keep MAP>65  run 0 DC [\/INST] Answer：levophed, 5ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/vial) 4vialial in D5W 250ml run 3cc/he change run to 5.1 [\/INST] Answer：levophed, 5.1 cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 1 Amp in 46 ml D5W, run 0-20 ml/hr to keep SBP > 90 mmHg now run 7ml/hr to run 14cc/hr about 14.9mcg/min [\/INST] Answer：levophed, 14ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vial in D5W(250) run 10cc/he(0~30) MAP>65mmHg,至0 DC，now run 3.5cc/he run 6cc/he(1mcg_min [\/INST] Answer：levophed, 6cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml)4amps in D5W 250ml run 31 ml/hr(about 33.92mcg/min，range 0~40ml/hr to keep MAP>65mmHg) [\/INST] Answer：levophed, 31ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 4amp in D5W 250cc run 30cc/hr，levophed change to 50ml/hr [\/INST] Answer：levophed, 50cc/hr <\/s>"}
+{"text": "<s>[INST] levophed (4mg/4ml/Amp) 4Amp in D5W 250㏄ run 2 change to 1.2 ml/hr about 1 mcg/min(range:0~30ml/hr, keep MAP>65 or SBP>90 ,0 DC) [\/INST] Answer：levophed, 1.2cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vial IN D5W 250ml RUN 10cc_hr +- 2cc_hr run KEEP MAP>65mmHg(RANGE 0-30cc_hr),now 8cc_hr(3.0mcg_min [\/INST] Answer：levophed, 8ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/amp) 4vialmps in D5W 250ml run 0.5 run 44cc_hr），HR:84BPM，RR:22BPM，SpO2:97%，lip & pink but cold，circulation OK，，oral discharge，prn suction [\/INST] Answer：levophed, 44ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 1Vial in D5W 46ml run 1ml change to run 2.5 cc/hr about 0.65 mcg/min(0-20ml/hr to keep SBP > 91mmHg) [\/INST] Answer：levophed, 2.5ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vial in D5W 250ml run 35cc_hr about 31.8mcg_min (0-20cc_hr, keep MAP>90mmHg) [\/INST] Answer：levophed, 35ml/hr <\/s>"}
+{"text": "<s>[INST] D5W 250ml+levophed 4vial run 20cc_hr run D5W run 40cc_hr [\/INST] Answer：levophed, 20ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vial  run 6ml/hr run 2ml/hr [\/INST] Answer：levophed, 2ml/hr <\/s>"}
+{"text": "<s>[INST] D5W250ml+levophed 4vial 0-40 cc/he(keep MAP>65mmHg)，:0.45 G/S run 40cc/he [\/INST] Answer：levophed, 40cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amps run 2ml/hr change to run 0ml/hr [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 2A IN D5W 250ML RUN 8ML/HR +- 2ML/HR TO KEEP SBP>90 [\/INST] Answer：levophed, 8ml/hr <\/s>"}
+{"text": "<s>[INST] D5W 250cc+levophed(4mg/4ml) 4A run 0-30cc keep MAP>65mmHg，now run 19 change to 17cc/hr(17ug/min) [\/INST] Answer：levophed, 17cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amp in 250cc D5W,range: 0-20cc,+/-1cc,keep MAP>65mmHg,now run 30cc/hr(20.0mg/hr) [\/INST] Answer：levophed, 30cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/amp)4AMPS in D5W 250ml run 3cc/hr change to 7cc/hr (about 2mcg/min) keep SBP>90mmHg [\/INST] Answer：levophed, 7cc/hr <\/s>"}
+{"text": "<s>[INST] levophed3vial run 1 ml/hr( 0-30ml/hr) [\/INST] Answer：levophed, 1ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 1Vial in D5W 46ml run 1ml to run 2.5ml/hr about 0.65 mcg/min(0-20ml/hr to keep SBP > 92mmHg) [\/INST] Answer：levophed, 2.5ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 12.5mg+D5W 50ml/hr to 2cc/hr(mcg/kg/min) [\/INST] Answer：levophed, 2ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 2vialmps run 4.5cc_hr run 4cc_hr [\/INST] Answer：levophed, 4ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 4A run 0-30cc keep MAP>65mmHg，now run  1 run 4 ml/hr(0ug/min) [\/INST] Answer：levophed, 4cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4 AMP ADD ABT D5W RUN 21CC/HR +/- 3cc/hr  keep SBP >90mmHg (Min:3cc/hr Max:30cc/hr(3MCG/MIN)) [\/INST] Answer：levophed, 21cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 16mg in D5W 250cc run 20cc(31.8mcg/min) range 0-30cc/hr，Keep MAP>65mmHg [\/INST] Answer：levophed, 20cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/amp)4amp in D5W 250ml run 20ml run 30ml/hr(about：30mcg/min，range：0~40ml/hr to keep SBP>90mmHg) [\/INST] Answer：levophed, 30ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amp(4mg/4cc) ,run 0-10mL/hr, keep MAP>65mmHg or SBP>90mmHg，now run 3 run 4.5ml/hr(1ug/min) use [\/INST] Answer：levophed, 4.5cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amp in D5W 250ml now run 14ml/hr change to 24 ml/hr about to 12.72ug/min(maximum infusion rate: 22ml/hr, keep MAP>65mmHg) [\/INST] Answer：levophed, 24ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 4vialmp+D5W 250ml run 15 run 13cc_hr（13mcg_min）run 16 cc_hr +- 2cc_hr [\/INST] Answer：levophed, 16ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amp+D5W 250ml run 3cc/hr change to 12ml/hr(2mcg/min) [\/INST] Answer：levophed, 12cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 12.5mg+D5W 40ml/hr change to 2ml/hr(mcg/kg/min) [\/INST] Answer：levophed, 2ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 4amp in D5W 250cc run 30cc/hr，levophed change to 60 cc/hr [\/INST] Answer：levophed, 60cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vials run 2ml/hr run 4ml/hr(about 0ug/min, range 0-40ml/hr to keep SBP>94mmHg) [\/INST] Answer：levophed, 4ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 1 Amp in 46 ml D5W, run 0-20 ml/hr to keep SBP > 90 mmHg now run 7ml/hr change run 15 ml/hr about 14.9mcg/min [\/INST] Answer：levophed, 15ml/hr <\/s>"}
+{"text": "<s>[INST] D5W 250ml+levophed 4vial(4mg/4ml)run 0-30ml run keep SBP>90mmHg now run 4 run cc_hr(4mcg_min)tapping OFF [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 1 Amp in 46 ml D5W, run 0-20 ml/hr to keep SBP > 90 mmHg now run 7ml/hr change to run 10ml/hr about 14.5mcg/min [\/INST] Answer：levophed, 10ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vials run 3ml/hr change to run 1ml/hr(range 0~40ml/hr to keep SBP>90mmHg) [\/INST] Answer：levophed, 1ml/hr <\/s>"}
+{"text": "<s>[INST] D5W 250ml＋levophed(4mg/4ml)4vial run 0-20cc_hr run keep MAP>65mmHg，now run 18cc_hr(18mcg_min) [\/INST] Answer：levophed, 18ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vialmp in D5W 250ml run 3cc_hr run OFF(about 6cc_hr [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vial+D5W 250ml run 4.5cc_hr run 4cc_hr [\/INST] Answer：levophed, 4ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vialmp+D5W 250 PUMP RUN 33cc_hr, run 3cc_hr PER TIMES run KEEP MAP>65 MMHG, (UPPER LIMIT 50cc_hr [\/INST] Answer：levophed, 33ml/hr <\/s>"}
+{"text": "<s>[INST] D5W250ml+levophed 4vial 0-40 cc/he(keep MAP>65mmHg)，0.45 G/S run 43cc/hr [\/INST] Answer：levophed, 43cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 4vialial in D5W 250ml  run  run 0cc_hr [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4㎎)2vial range 2㏄/hr to 5.10 cc/hr, now run 6.7 use to keep SBP>90mmHg [\/INST] Answer：levophed, 6.7 cc/hr <\/s>"}
+{"text": "<s>[INST] D5W 250cc levophed(4㎎)2vial range 2㏄/hr to 3.8cc/hr use to run  [\/INST] Answer：levophed, 3.8 ㏄/hr <\/s>"}
+{"text": "<s>[INST] D5W 250㏄+levophed(4㎎/4ml) 4vial run 0~20ml/hr to keep MAP>65mmHg，now run 2 change to 1 cc/hr(1ug/min) [\/INST] Answer：levophed, 1cc/hr <\/s>"}
+{"text": "<s>[INST] levophed run 17cc/hr，L/R 1B IVD ST、0.45G/S run 100ml/hr [\/INST] Answer：levophed, 17ml/hr <\/s>"}
+{"text": "<s>[INST] D5W 250ml+levophed 4vialial run 11c/hr，run D5W run 100cc/he [\/INST] Answer：levophed, 11cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml)4amps in D5W 250ml run 30(about 33.92mcg/min，range 0~40ml/hr to keep MAP>65mmHg) [\/INST] Answer：levophed, 30ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 2A IN D5W 250ML RUN 8ML/HR +- 2ML/HR TO KEEP SBP>90,10ML change to 14ML [\/INST] Answer：levophed, 14ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4A in D5W 250, run12 cc/hr(range 0-30cc/hr, +-2cc/hr), keep MAP>70mmHg [\/INST] Answer：levophed, 12cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 1Vial in D5W 46ml run 1ml change run 4.5 cc/hr about 0.65 mcg/min(0-20ml/hr to keep SBP > 93mmHg) [\/INST] Answer：levophed, 3.5ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 4vial in D5W 250ml 19 change to 17ml/hr(about 18mcg/minrange 0-30ml/her to keep MAP>65mmH，L/R 60cc/hr，obs vital sign。 [\/INST] Answer：levophed, 17ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4A+D5W 250cc run 0-20㏄ to keep SBP>90mmHg，run 3 change to 4ml/hr(1ug/min) [\/INST] Answer：levophed, 4cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vial in D5W(250) run 10cc/he(0~30) MAP>65mmHg,至0 DC，now run 6.5ml/hr run 7 cc/hr(1mcg_min [\/INST] Answer：levophed, 7cc/hr <\/s>"}
+{"text": "<s>[INST] D5W 250ml+levophed4vial run 0~20cc_hr keep SBP>90mmHg，now run 5cc_hr(5mcg_min)，3. [\/INST] Answer：levophed, 5ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4A+D5W 250cc run 0-30cc/hr，keep SBP>90mmHg，now run 25㏄/hr run 22 ㏄/hr(20ug/min) [\/INST] Answer：levophed, 22cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml)4amps in D5W 250ml run 32cc/hr(about 33.92mcg/min，range 0~40ml/hr to keep MAP>65mmHg) [\/INST] Answer：levophed, 32ml/hr <\/s>"}
+{"text": "<s>[INST] D5W 250ml+levophed 16mg，run cc/he(5mcg_min [\/INST] Answer：levophed, None <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4mL) 4amp+D5W 250cc run 27 run 32 /hr(30mcg/min) Keep MAP>65mmHg [\/INST] Answer：levophed, 32cc/hr <\/s>"}
+{"text": "<s>[INST] D5W500ml＋levophed 4vialmps run 35cc_hr [\/INST] Answer：levophed, 35ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amp(4mg/4ml/amp) in D5W 250ml run 3ml/hr run 14cc/hr(12mcg/min) [\/INST] Answer：levophed, 14ml/hr <\/s>"}
+{"text": "<s>[INST] D5W 250cc+levophed(4mg/4ml) 4A run 0-30cc keep MAP>65mmHg，now run 19 to17cc/hr(17ug/min) [\/INST] Answer：levophed, 17cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 4vial in D5W 250ml  19 to 17ml/hr(about 18mcg/minrange 0-30ml/her to keep MAP>65mmH，L/R 60cc/hr，obs vital sign。 [\/INST] Answer：levophed, 17ml/hr <\/s>"}
+{"text": "<s>[INST] levophad primix 15㏄/hr [\/INST] Answer：levophed, 15cc/hr <\/s>"}
+{"text": "<s>[INST] levophed (4mg/4ml/Amp) 4Amp in D5W 250㏄ run 2 change to 1.1 ㏄/hr about 1 mcg/min(range:0~30ml/hr, keep MAP>65 or SBP>90 ,0 DC) [\/INST] Answer：levophed, 1.1cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/vial) 4vial in D5W 250ml run 1.5cc_hr run 3cc_hr [\/INST] Answer：levophed, 3ml/hr <\/s>"}
+{"text": "<s>[INST] levophed (4mg/4ml) 4vial+D5W 250ml run 3.5cc/he change to 4cc/he(about 3mcg_min [\/INST] Answer：levophed, 4cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 2A +D5W 250ML(KEEP BP >90mmHg，run 0-40ml/hr)new run 1ml/hr change to 5ml/hr [\/INST] Answer：levophed, 5ml/hr <\/s>"}
+{"text": "<s>[INST] D5W 250ml+levophed 4vial run 10cc_hr run D5W run 40cc_hr [\/INST] Answer：levophed, 10ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml)4A run 0-30cc keep MAP>65mmHg,now run 20 run 25cc/hr(20.0ug/min) [\/INST] Answer：levophed, 25cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vialmps run 1  run  0 cc_hr [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vialmp+D5W 250ml run 5-20cc_hr keep SBP>90mmHg run 2cc_hr run cc_hr [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 9 cc/hr，BP：111/75mmHg，HR： 87bpm，total UF：0kg/HD 2.5 [\/INST] Answer：levophed, 9ml/hr <\/s>"}
+{"text": "<s>[INST] D5W 250ml+levophed(4mg/4ml)6vialmps trun run off。2. Sedation 7.5% PN 42cc_hr [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] levophed*(3mg/200mL) Run 10cc/hr +- 3cc to keep MAP>65mmHg,range 0-30cc/hr,now run 20 change to 33㏄/hr(21.0mcg/kg/min) [\/INST] Answer：levophed, 33cc/hr <\/s>"}
+{"text": "<s>[INST] D5W250ml+levophed 4vialmps run 5cc_hr [\/INST] Answer：levophed, 5ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml)4A run 0-30cc keep MAP>65mmHg,now run 20 run 27(5ug/min)  [\/INST] Answer：levophed, 27cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vial +D5W 250ml run change to 6cc(about 5mcg/min, range 0-30cc/hr keep MAP >65mmHg、A-line stay(op site cove [\/INST] Answer：levophed, 6cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 4vial in D5W 250ml  19 change 17ml/hr(about 18mcg/minrange 0-30ml/her to keep MAP>65mmH，L/R 60cc/hr，obs vital sign。 [\/INST] Answer：levophed, 17ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml)4A run 0-30cc keep MAP>65mmHg,now run 11 run 13㏄/r(8.0ug/min) [\/INST] Answer：levophed, 13cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml)4A run 0-30cc keep MAP>65mmHg,now run 15 change 16 ml/hr(14ug/min) [\/INST] Answer：levophed, 16cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 4A run 0-30cc keep MAP>65mmHg，now run 1 run 3ml/hr(0ug/min) [\/INST] Answer：levophed, 3cc/hr <\/s>"}
+{"text": "<s>[INST] levophed* inj 4mg/4mL STAT/IVD6 4A pump control 8c.c/hr [\/INST] Answer：levophed, 8cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 1 Amp in 46 ml D5W, run 0-20 ml/hr to keep SBP > 90 mmHg now run 7ml/hr to run 13ml/hr about 14.8mcg/min [\/INST] Answer：levophed, 13ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 8ml/hr，BP：111/75mmHg，HR： 87bpm，total UF：0kg/HD 2.5 [\/INST] Answer：levophed, 8ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 4vialmp in D50W 250ml 1.5cc_hr run 1cc_hr (=1mcg_min [\/INST] Answer：levophed, 1ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 1vialmp in D5W 250ml run 0.9cc_hr run run 0cc_hr(run 0 ~ 11 cc_hr [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amps run 3 ml/hr change to run 12 ml/hr (about 0 ug/min,range 0-30ml/hr) [\/INST] Answer：levophed, 12ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4 Amp in D5W 250 cc, run 0~30 cc/hr, keep MAP>65mmHg, now run 5 cc/hr(8.48mcg/min) [\/INST] Answer：levophed, 5cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4ml/4mg) 4amps in D5W 250ml run 4ml/hr add to 7ml/hr(about 6mcg/min) [\/INST] Answer：levophed, 7ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vials run 2ml/hr change to 3ml/hr(about 0ug/min, range 0-40ml/hr to keep SBP>93mmHg) [\/INST] Answer：levophed, 3ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vials run 3ml/hr run run 5 ml/hr(range 0~40ml/hr to keep SBP>92mmHg) [\/INST] Answer：levophed, 5ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amps run 2ml/hr run run 3ml/hr [\/INST] Answer：levophed, 3ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vial IN D5W 250ml RUN 10cc_hr +- 2cc_hr run KEEP MAP>65mmHg(RANGE 0-30cc_hr),now 9cc_hr(3.0mcg_min [\/INST] Answer：levophed, 9ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4mL) 2vial in D5W 250ml run 10 run 17ml/hr(about 15mcg/min，range 0-30ml/hr，keep SBP>90 mmHg [\/INST] Answer：levophed, 17cc/hr <\/s>"}
+{"text": "<s>[INST] D5W 250ml＋levophed 4vial run 10cc_hr [\/INST] Answer：levophed, 10ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/amp)4amp in D5W 250ml run 20ml run 50(about：4mcg/min，range：0-40ml to keep MAP>70mmHg) [\/INST] Answer：levophed, 50ml/hr <\/s>"}
+{"text": "<s>[INST] levophed run 16 ml/hr，L/R 1B IVD ST、0.45G/S run 100ml/hr [\/INST] Answer：levophed, 16ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 4amp in D50W 250ml run 7cc/hr(=7mg/min) [\/INST] Answer：levophed, 7cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml)4A run 0-30cc keep MAP>65mmHg,now run 10ml/hr [\/INST] Answer：levophed, 10cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4mL) 4amp+D5W 250cc run 27 run 30ml/hr(29.5mcg/min) Keep MAP>65mmHg [\/INST] Answer：levophed, 30cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vial in D5W 250ml run 0-20cc_hr run keep SBP > 90mmHg now run 5cc_hr run 0cc_hr [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] D5W 250ml+levophed 16mg，run ml/he(6mcg_min [\/INST] Answer：levophed, None <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/amp) 4amps in D5W 250ml run 30 mmHg(about 10mcg/min，range 0~30ml/hr to keep MAP>65mmHg) [\/INST] Answer：levophed, 30cc/hr <\/s>"}
+{"text": "<s>[INST] levophed (4mg/4ml/Amp) 4Amp in D5W 250㏄ run 2 change to 1.3㏄/hr about 1 mcg/min(range:0~30ml/hr, keep MAP>65 or SBP>90 ,0 DC) [\/INST] Answer：levophed, 1.3cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vialial run 6cc_hr [\/INST] Answer：levophed, 6ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(250mg/20mL) 2vials in N/S 210cc run 19.1 ml/hr(about：10mcg/kg/min，range 3~20ug/kg/min to keep C.I.>2.2) [\/INST] Answer：levophed, 19.1ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/vial) 4vialial in D5W 250ml run 3cc/he change run to 5.2 [\/INST] Answer：levophed, 5.2 cc/hr <\/s>"}
+{"text": "<s>[INST] D5W 250ml+levophed 4vialmpa rum 0.5cc_hr [\/INST] Answer：levophed, 0.5ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 8mg in D5W 250cc run run 4 ml/hr(4.24mcg/min) [\/INST] Answer：levophed, 4cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vialmp(16mg) in D5W 500ml run 11 cc_hr [\/INST] Answer：levophed, 11ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amps run16 ml/hr run run 11ml/hr(about10.6ug/min,range 0-30ml/hr to keep SBP>90mmHg) [\/INST] Answer：levophed, 11ml/hr <\/s>"}
+{"text": "<s>[INST] D5W 250ml+levophed 4vialial run 8 [\/INST] Answer：levophed, 8cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4cc) 2amp run 10 ml/hr(5.3ug/min). [\/INST] Answer：levophed, 10 cc/hr <\/s>"}
+{"text": "<s>[INST] levophad(4mg/4mL) 4amp run 17 ㏄/hr(9mcg/min） [\/INST] Answer：levophed, 17cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml)×4A in D5W 250ml range 0-20cc/hr to keep MAP>65mmHg，now run 0.5 run 1.4 cc/hr [\/INST] Answer：levophed, 1.4cc/hr <\/s>"}
+{"text": "<s>[INST] 2vial run 9cc_hr run run 12cc_hr, D5W 250ml+levophed 4 vial run 33cc_hr [\/INST] Answer：levophed, 33ml/hr <\/s>"}
+{"text": "<s>[INST] D5W 250ml + levophed 4vialmp run 18cc_hr run run 30cc_hr(about 31.8mcg_min，range 0-40，keep SBP>90mmHg) albumin 2B STAT/IVD [\/INST] Answer：levophed, 30ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/vial) 4vialial in D5W 250ml 3ml/hr change run to 2.4 [\/INST] Answer：levophed, 2.4 cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 4amp in D5W 250cc run 30cc/hr，levophed change to 40cc/hr [\/INST] Answer：levophed, 40cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amp(4mg/4cc) ,run 0-10mL/hr, keep MAP>65mmHg or SBP>90mmHg，now run 1.2 run 1.5 cc/hr(0ug/min) use [\/INST] Answer：levophed, 1.5cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4 vials run 1.5 ml/hr change to 1 ml/hr（about 1.06ug/min,range 0-20ml/hr to keep SBP>90mmHg） [\/INST] Answer：levophed, 1ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4㎎)4vial run 10 ml/hr(5ug/min) use to keep MAP>65mmHg [\/INST] Answer：levophed, 10cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/amp) 2amp run 5 change to 4.6(about 1.5mcg/min) keep MAP>65mmHg [\/INST] Answer：levophed, 4.6cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amps run 2ml/hr run run 0ml/hr [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] D5W250ml+levophed 4vial 0-40 cc/he(keep MAP>65mmHg)，0.45 G/S run 41cc/he [\/INST] Answer：levophed, 41cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 2amp+D5W 250cc change to run 5cc/hr(5mcg/min,+- 2 c.c/hr, keep SBP>90) [\/INST] Answer：levophed, 5㏄/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4mL) 2vial in D5W 250ml run 10 run 16 cc/hr(about 15mcg/min，range 0-30ml/hr，keep SBP>90 mmHg [\/INST] Answer：levophed, 16cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amps run 29 cc/hr(about 28.62ug/min,range 0 - 40 ml/hr to keep SBP > 90mmHg) [\/INST] Answer：levophed, 29ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml)4A run 0-30cc keep MAP>65mmHg,now run 15 to 16(15ug/min) [\/INST] Answer：levophed, 16cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vial +D5W 250ml run to 7cc(about 5mcg/min, range 0-30cc/hr keep MAP >65mmHg、A-line stay(op site cove [\/INST] Answer：levophed, 7cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 0.1ml+N/S to 20ml run 11 [\/INST] Answer：levophed, 11 ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 8mg in D5W 250cc run run 4(4.24mcg/min) [\/INST] Answer：levophed, 4cc/hr <\/s>"}
+{"text": "<s>[INST] D5W 250ml+levophed 4vialial run 7 [\/INST] Answer：levophed, 7cc/hr <\/s>"}
+{"text": "<s>[INST] D5W 250㏄+levophed(4㎎/4ml) 4vial run 0~20ml/hr to keep MAP>65mmHg，now run 2 to 1 cc/hr(1ug/min) [\/INST] Answer：levophed, 1cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vial run 6ml/hr run 1ml/hr [\/INST] Answer：levophed, 1ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 1 Amp in 46 ml D5W, run 0-20 ml/hr to keep SBP > 90 mmHg now run 7ml/hr change run 13ml/hr about 14.8mcg/min [\/INST] Answer：levophed, 13ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 8mg in D5W 125ml range 0-20cc/hr to keep MAP>65mmHg，now run run 12(3.18mcg/min) [\/INST] Answer：levophed, 12cc/hr <\/s>"}
+{"text": "<s>[INST] levophed (4mg/4ml/vial) 4vial in D5W 250ml  run off12vial in D5W 45ml run off，Tait5vial 400ml run 80cc_hr [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] levophed D5W250cc (0.5mg/10ml) range 2.6-4.9cc/hr [\/INST] Answer：levophed, 2.6 cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vial in D5W 250ml run 30cc_hr about 31.8mcg_min (0-20cc_hr, keep MAP>90mmHg) [\/INST] Answer：levophed, 30ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/vial) 4vialial D5W 250ml run 13cc_hr run run 12.5cc_hr [\/INST] Answer：levophed, 12.5ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 2A +D5W 250ML(KEEP BP >90mmHg，run 0-40ml/hr)new run 1ml/hr change to 6 cc/hr [\/INST] Answer：levophed, 6ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amps run 3 ml/hr change to run 10ml/hr (about 0 ug/min,range 0-30ml/hr) [\/INST] Answer：levophed, 10ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vials run 3ml/hr run run 4ml/hr(range 0~40ml/hr to keep SBP>93mmHg) [\/INST] Answer：levophed, 4ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 1Vial in D5W 46ml run 1ml to run 4.5 cc/hr about 0.65 mcg/min(0-20ml/hr to keep SBP > 93mmHg) [\/INST] Answer：levophed, 4.5ml/hr <\/s>"}
+{"text": "<s>[INST] D5W 250ml+levophed 4vialial run 12ml/hr，run D5W run 100cc/he [\/INST] Answer：levophed, 12cc/hr <\/s>"}
+{"text": "<s>[INST] levophed run 5  [\/INST] Answer：levophed, 5 ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 2vial in D5W 250 run 17 ml/hr chang to run 22(about 20mcg/min, range 0-30ml/hr to keep SBP>90) [\/INST] Answer：levophed, 22ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 2vial in D5W 250 run 15ml/hr chang to run 20 cc/hr (20mcg/min, range 0-30ml/hr to keep SBP>90) [\/INST] Answer：levophed, 20ml/hr <\/s>"}
+{"text": "<s>[INST] D5W 250cc levophed(4㎎)2vialial range 2㏄/hr to 3.8cc/hr use to run 5.7ml/hr [\/INST] Answer：levophed, 5.7 ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 2amp+D5W 250cc change run 6 cc/hr(5mcg/min,+- 2 c.c/hr, keep SBP>90) [\/INST] Answer：levophed, 6㏄/hr <\/s>"}
+{"text": "<s>[INST] levophed (4mg/4ml) 4vial+D5W 250ml run 3.5cc/he change to 3.3 cc/he(about 3mcg_min [\/INST] Answer：levophed, 3.3 cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vials run 2ml/hr run 3ml/hr(about 0ug/min, range 0-40ml/hr to keep SBP>93mmHg) [\/INST] Answer：levophed, 3ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 4amp in D5W 250cc run 30cc/hr，levophed run 50ml/hr [\/INST] Answer：levophed, 50cc/hr <\/s>"}
+{"text": "<s>[INST] D5W 250cc+levophed(4mg/4ml) 4A run 0-30cc keep MAP>65mmHg，now run 6 to 5 ml/hr(5ug/min) [\/INST] Answer：levophed, 5cc/hr <\/s>"}
+{"text": "<s>[INST] levophed (4mg/4ml) 4vial+D5W 250ml run 3.5cc/he to 3.3 cc/he(about 3mcg_min [\/INST] Answer：levophed, 3.3 cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vial run change to 2 [\/INST] Answer：levophed, 2ml/hr <\/s>"}
+{"text": "<s>[INST] levophed0.1㏄＋D5W 19.9㏄ 4 [\/INST] Answer：levophed, 4cc/hr <\/s>"}
+{"text": "<s>[INST] D5W 250cc levophed(4㎎)2vial range 2㏄/hr to 1.8cc/hr use to run 3.7ml/hr [\/INST] Answer：levophed, 3.7ml/hr <\/s>"}
+{"text": "<s>[INST] levophed rate:30ml/h change to 30.5 ml/hr，BP:188/86mmHg、PR:95，UFR：1.0 kg/hr，by BP keep obs。 [\/INST] Answer：levophed, 30.5ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vialrun 1cc/hr run 16cc/hr(0-20cc/hr， 90mmHg) [\/INST] Answer：levophed, 16cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 0.1ml+N/S to 20ml run 12ml/hr [\/INST] Answer：levophed, 12 ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4mg/4mL 4Vial run 0-20ml/hr keep SBP >90mmHg,now run 1 run 0.6 ml/hr about 0.54ug/min [\/INST] Answer：levophed, 0.6ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 1.7cc_hr run 2.0cc_hr, sedation 7cc_hr run 8cc_hr [\/INST] Answer：levophed, 2ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 2amp+D5W 250cc run 5 cc/hr(5mcg/min,+- 2 c.c/hr, keep SBP>90) [\/INST] Answer：levophed, 5㏄/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/amp) 4vialmps in D5W 250ml run 0.5 run 0cc_hr），HR:84BPM，RR:22BPM，SpO2:97%，lip & pink but cold，circulation OK，，oral discharge，prn suction [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 2vial in D5W 250 run 1ml/hr run run 3ml/hr (about 2mcg/min) [\/INST] Answer：levophed, 3ml/hr <\/s>"}
+{"text": "<s>[INST] D5W 250ml+levophed 4vialial run 8ml/hr [\/INST] Answer：levophed, 8cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vialrun 2cc/hr run 17 cc/hr(0-20cc/hr， 90mmHg) [\/INST] Answer：levophed, 17cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vials run 16cc/hr（ 0-20cc/hr、 90mmHg） [\/INST] Answer：levophed, 16cc/hr <\/s>"}
+{"text": "<s>[INST] D5W 250ml+levophed 4vialial run 9 [\/INST] Answer：levophed, 9cc/hr <\/s>"}
+{"text": "<s>[INST] D5W 250cc+levophed 4vial run 5.4cc/hr，run D5W run 100cc/hr [\/INST] Answer：levophed, 5.4cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amps run 3 ml/hr change to run 11cc/hr (about 0 ug/min,range 0-30ml/hr) [\/INST] Answer：levophed, 11ml/hr <\/s>"}
+{"text": "<s>[INST] levophed (4mg/4ml) 4vial+D5W 250ml run 3.5cc/he to 5cc/he(about 3mcg_min [\/INST] Answer：levophed, 5cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 2amp+D5W 250cc run 5(5mcg/min,+- 2 c.c/hr, keep SBP>90) [\/INST] Answer：levophed, 5cc/hr <\/s>"}
+{"text": "<s>[INST] levoped(4mg/4ml/amp) 4Amp in D5W 250ml run 27 change to 31 ml/hr(about:30mcg/min，range 0-30ml to keep MAP>65mmHg) [\/INST] Answer：levophed, 31ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amp(4mg/4ml/amp) in D5W 250ml run 3ml/hr run 13 ml/hr(12mcg/min) [\/INST] Answer：levophed, 13ml/hr <\/s>"}
+{"text": "<s>[INST] D5W250ml+levophed 4vialmp  run run 20cc_hr [\/INST] Answer：levophed, 20ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4 AMP ADD ABT D5W RUN 22CC/HR +/- 3cc/hr  keep SBP >90mmHg (Min:3cc/hr Max:30cc/hr(3MCG/MIN)) [\/INST] Answer：levophed, 22cc/hr <\/s>"}
+{"text": "<s>[INST] levophed4vial run 0ml/hr(0-30ml/hr) [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 2amp+D5W 250cc change run 6(5mcg/min,+- 2 c.c/hr, keep SBP>90) [\/INST] Answer：levophed, 6cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 2vial in D5W 250 run 16ml/hr chang to run 21ml/hr (about 20mcg/min, range 0-30ml/hr to keep SBP>90) [\/INST] Answer：levophed, 21ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vail in D5W 250ml run 7cc/hr(about 4mcg/min) [\/INST] Answer：levophed, 7cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amps run 2ml/hr run run 1ml/hr [\/INST] Answer：levophed, 1ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 8ml/hr，BP：111/75mmHg，HR： 87bpm，total UF：0kg/HD 2.5 [\/INST] Answer：levophed, 8ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/amp) 4Amp in D5W 250ml run 30(about：30mcg/min) [\/INST] Answer：levophed, 30ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amp in 250cc D5W,range: 0-20cc,+/-1cc,keep MAP>65mmHg,now run 20cc/hr(20.0mg/hr) [\/INST] Answer：levophed, 20cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amps run18 ml/hr run run 13ml/hr(about10.6ug/min,range 0-30ml/hr to keep SBP>91mmHg) [\/INST] Answer：levophed, 13ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vial  run run 0cc_hr(keep MAP>65mmHg [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 4vialmp run 0.7ml run 0.2/hr(=0.2mcg_min [\/INST] Answer：levophed, 0.2ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4cc)4amps add in D5W 250cc run 5 to 4cc/hr (about：4mcg/min，range 0-30cc/hr，keep MAP > 65mmHg) [\/INST] Answer：levophed, 4cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 4A run 0-30cc keep MAP>65mmHg，now run 30 ml/hr(25ug/min) [\/INST] Answer：levophed, 30cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 8vialmp(16mg) in D5W 250ml run 17 cc_hr [\/INST] Answer：levophed, 17ml/hr <\/s>"}
+{"text": "<s>[INST] levophed* inj 4mg/4ml 4 vialial IVD in D5W 250 ml,run 10cc_hr about 10.66 mcg_min(keep SBP>90mmHg, Max 15cc_hr [\/INST] Answer：levophed, 10ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amp in 250cc D5W,range: 0-20cc,+/-1cc,keep MAP>65mmHg,now run 16 [\/INST] Answer：levophed, 16cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vial run 0cc_hr [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 1 Amp in 46 ml D5W, run 0-20 ml/hr to keep SBP > 90 mmHg now run 7ml/hr change run 14cc/hr about 14.9mcg/min [\/INST] Answer：levophed, 14ml/hr <\/s>"}
+{"text": "<s>[INST] levophed (4mg) 4 vialmp + D5W 250 ml run 0cc_hr [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vials run 2ml/hr change to 5 ml/hr(about 0ug/min, range 0-40ml/hr to keep SBP>94mmHg) [\/INST] Answer：levophed, 5 ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amps in D5W 250ml run 3 run 12cc/hr about 2mcg/min(±3cc/hr，range：0-30ml/hr，keep SBP>90mmHg) [\/INST] Answer：levophed, 12cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amps run 3ml/hr change to run 14 ml/hr (about 1.06ug/min,range 0-40ml/hr to keep MAP>65mmHg) [\/INST] Answer：levophed, 14ml/hr <\/s>"}
+{"text": "<s>[INST] levophed rate:30ml/h change to 29ml/hr，BP:188/86mmHg、PR:95，UFR：1.0 kg/hr，by BP keep obs。 [\/INST] Answer：levophed, 29ml/hr <\/s>"}
+{"text": "<s>[INST] levophed* 4mg/4ml 1vialial + D5W 46ml run 0cc_hr [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] levophed rate:30ml/h run 29ml/hr，BP:188/86mmHg、PR:95，UFR：1.0 kg/hr，by BP keep obs。 [\/INST] Answer：levophed, 29ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amps run18 ml/hr run run 12ml/hr(about10.6ug/min,range 0-30ml/hr to keep SBP>91mmHg) [\/INST] Answer：levophed, 12ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amp in D5W 250ml run 4ml/hr change 0.9ml/hr (range 0-20ml/hr to keep SBP>90mmHg) [\/INST] Answer：levophed, 0.9cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml)4vial run 18 run 26cc_hr [\/INST] Answer：levophed, 26ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4㎎/4ml)4A run 0~20㏄/hr to keep SBP >90mmHg，now run 7ml/hr( 6.0ug/min) [\/INST] Answer：levophed, 7cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/vial)4vial in D5W 250ml run 3.5ml run 3cc_hr(about 3mcg_min，range 0-40cc_hr run keep MAP>65mmHg) [\/INST] Answer：levophed, 3ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/vial) 4vialial in D5W 250ml 3cc/he change run to 2.2 [\/INST] Answer：levophed, 2.2 cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 2A IN D5W 250ML RUN 7ML/HR +- 2ML/HR TO KEEP SBP>90 [\/INST] Answer：levophed, 7ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/amp) 4Amp in D5W 250ml run 32 ml/hr(about：30mcg/min) [\/INST] Answer：levophed, 32ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 12.5mg+D5W 60ml/hr run (mcg/kg/min) [\/INST] Answer：levophed, 60ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml)2amp+D5W 50ml run 5.8ml(=0.15mcg/kg/min) [\/INST] Answer：levophed, 5.8ml/hr <\/s>"}
+{"text": "<s>[INST] levophed (4mg/4ml/vial) 4vial in D5W 250ml  run off11vial in D5W 42ml run off，Tait5vial 400ml run 80cc_hr [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4 AMP ADD ABT D5W RUN 23 CC/HR +/- 3cc/hr  keep SBP >90mmHg (Min:3cc/hr Max:30cc/hr(3MCG/MIN)) [\/INST] Answer：levophed, 23cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4mL) 4amp+D5W 250cc run 27 run 31 ml/hr(30mcg/min) Keep MAP>65mmHg [\/INST] Answer：levophed, 31cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml)×2A in D5W 125㏄ to keep MAP>65mmHg run 3(3.0ug/min) [\/INST] Answer：levophed, 3㏄/hr <\/s>"}
+{"text": "<s>[INST] levophed*(3mg/200mL) Run 10cc/hr +- 5cc to keep MAP>65mmHg,range 0-30cc/hr,now run 20 change to 35(21.0mcg/kg/min) [\/INST] Answer：levophed, 35cc/hr <\/s>"}
+{"text": "<s>[INST] levophed (4mg/4ml/vial) 4vial in D5W 250ml  run off10vial in D5W 40ml run off，Tait5vial 400ml run 80cc_hr [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 4amps in D5W 250ml run 8 change 4ml/hr (about 4mcg/min，range 0-30ml/hr to keep MAP>65mmHg) [\/INST] Answer：levophed, 4ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4㎎)4vial run 9cc/hr(5ug/min) use to keep MAP>65mmHg [\/INST] Answer：levophed, 9cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4mL) 4vial in D5W 250ml run 14(about 25mcg/min，range 0-30ml/hr，keep SBP>90 mmHg) [\/INST] Answer：levophed, 14ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 4vial in D5W 250ml run 1.5ml run 1cc_hr [\/INST] Answer：levophed, 1ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml)×2A in D5W 125㏄ to keep MAP>65mmHg run 10 run 8 (3.0ug/min) [\/INST] Answer：levophed, 8㏄/hr <\/s>"}
+{"text": "<s>[INST] levoped(4mg/4ml/amp) 4Amp in D5W 250ml run 27 change to 30ml/hr(about:30mcg/min，range 0-30ml to keep MAP>65mmHg) [\/INST] Answer：levophed, 30ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4A+D5W 250cc run 0-30cc/hr，keep SBP>90mmHg，now run 23㏄/hr run 25㏄/hr(25ug/min) [\/INST] Answer：levophed, 25cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 8mg in D5W 125ml range 0-20cc/hr to keep MAP>65mmHg，now run change to 13cc/hr(3.18mcg/min) [\/INST] Answer：levophed, 13cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 4amps + D5W 250cc run 4cc/hr run 3.4cc/hr(about:3mcg/min)range 0~30cc/hr to keep MAP>65mmHg [\/INST] Answer：levophed, 3.4cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 0.1ml+N/S to 20ml run 13 [\/INST] Answer：levophed, 13 ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 2amp+D5W 250cc change to run 3cc/hr(3mcg/min,+- 2 c.c/hr, keep SBP>90) [\/INST] Answer：levophed, 3㏄/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 2vial in D5W 250 run 1ml/hr run run 4 ml/hr (about 2mcg/min) [\/INST] Answer：levophed, 4ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 2vialmp in D5W 250ml run 2cc_hr about 1.06 mcg_min（ Run 10 cc_hr +- 2 cc_hr [\/INST] Answer：levophed, 2ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 9ml/hr，BP：111/75mmHg，HR： 87bpm，total UF：0kg/HD 2.5 [\/INST] Answer：levophed, 9ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vial run change to 0cc/he [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amp in D5W 250ml run 4ml/hr change 0.7ml/hr (range 0-20ml/hr to keep SBP>90mmHg) [\/INST] Answer：levophed, 0.7cc/hr <\/s>"}
+{"text": "<s>[INST] levophed D5W250cc (0.5mg/10ml) range 2.8-4.9cc/hr [\/INST] Answer：levophed, 2.8 cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 4vialmp run 0.7ml run 0.5/hr(=0.2mcg_min [\/INST] Answer：levophed, 0.5ml/hr <\/s>"}
+{"text": "<s>[INST] levoped(4mg/4ml/amp) 4Amp in D5W 250ml run 27 change to 32 cc/hr(about:30mcg/min，range 0-30ml to keep MAP>65mmHg) [\/INST] Answer：levophed, 32ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml)4A run 0-30cc keep MAP>65mmHg,now run 15 change to 16㏄/hr(13ug/min) [\/INST] Answer：levophed, 16cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4V in D5W 250ml run 30ml/hr about 31.8mcg/min to keep SBP>90mmHg(range 0-30ml/hr) [\/INST] Answer：levophed, 30ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 2amp+D5W 50ml run 6 cc(=0.16mcg/kg/min) [\/INST] Answer：levophed, 6ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amp in 250cc D5W,range: 0-20cc,+/-1cc,keep MAP>65mmHg,now run 40 cc/hr(20.0mg/hr) [\/INST] Answer：levophed, 40cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vial in D5W 250ml run 40cc_hr about 31.8mcg_min (0-20cc_hr, keep MAP>90mmHg) [\/INST] Answer：levophed, 40ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amp in D5W 250ml now run 14ml/hr change to 22ml/hr about to 12.72ug/min(maximum infusion rate: 20ml/hr, keep MAP>65mmHg) [\/INST] Answer：levophed, 22ml/hr <\/s>"}
+{"text": "<s>[INST] levophed* inj 4mg/4ml 1vialial in D5W 46ml run 0.5cc_hr  run run 0cc_hr [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vial  run run 0cc_hr [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4 Amp in D5W 250 cc, run 0~30 cc/hr, keep MAP>65mmHg, now run 4cc/hr(8.48mcg/min) [\/INST] Answer：levophed, 4cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 8vial run run 0cc_hr [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 2A +D5W 250ML(KEEP BP >90mmHg，run 0-40ml/hr) run 1ml/hr to 2ml/hr [\/INST] Answer：levophed, 2ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amp in 250cc D5W,range: 0-20cc,+/-1cc,keep MAP>65mmHg,now run 16 cc/hr [\/INST] Answer：levophed, 16cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vial  run 6ml/hr run 3ml/hr [\/INST] Answer：levophed, 3ml/hr <\/s>"}
+{"text": "<s>[INST] run  D5W 250ml＋levophed 4vial run 5cc_hr(  0-30cc_hr [\/INST] Answer：levophed, 5ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 2A +D5W 250ML(KEEP BP >90mmHg，run 0-40ml/hr) run 1ml/hr to 3 ml/hr [\/INST] Answer：levophed, 3ml/hr <\/s>"}
+{"text": "<s>[INST] D5W 125ml + levophed 2vialmps(4mg/4ml/amp) run 4.5cc_hr run 4cc_hr [\/INST] Answer：levophed, 4ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4cc)4amps add in D5W 250cc run 5 to 2ml/hr (about：4mcg/min，range 0-30cc/hr，keep MAP > 65mmHg) [\/INST] Answer：levophed, 2cc/hr <\/s>"}
+{"text": "<s>[INST] levophed* inj 4mg/4mL STAT/IVD6 pump control 9 ml/hr [\/INST] Answer：levophed, 9cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4 Amp in D5W 250 c.c run 10ml/hr change to 20cc/hr(run 7 c.c/hr initially and +/- 2 c.c/hr for keep SBP>90mmHg) [\/INST] Answer：levophed, 20ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amps run 3 ml/hr run run 12ml/hr (about 0 ug/min,range 0-31ml/hr) [\/INST] Answer：levophed, 12ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vail in D5W 250ml run 6 ml/hr(about 4mcg/min) [\/INST] Answer：levophed, 6cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 7ml/hr，BP：111/75mmHg，HR： 87bpm，total UF：0kg/HD 2.5 [\/INST] Answer：levophed, 7ml/hr <\/s>"}
+{"text": "<s>[INST] D5W 250ml+levophed 4vialmp run 4.7cc_hr [\/INST] Answer：levophed, 4.7ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml)×2A in D5W 125㏄ to keep MAP>65mmHg run 10 run 7ml/hr(3.0ug/min) [\/INST] Answer：levophed, 7㏄/hr <\/s>"}
+{"text": "<s>[INST] levophed* inj 4mg/4mL STAT/IVD6 4A pump control 10 [\/INST] Answer：levophed, 10cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 4vialmp run 0.7ml run 0.8/hr(=0.2mcg_min [\/INST] Answer：levophed, 0.8ml/hr <\/s>"}
+{"text": "<s>[INST] D5W 250ml +levophed(4mg/4ml) 4vial run 0-30cc_hr run keep MAP>65mmHg，now run 17cc_hr(17mcg_min)，2. [\/INST] Answer：levophed, 17ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 4amps + D5W 250cc run 4cc/hr run 3.3cc/hr(about:3mcg/min)range 0~30cc/hr to keep MAP>65mmHg [\/INST] Answer：levophed, 3.3cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4 Amp in D5W 250 cc, run 0~30 cc/hr, keep MAP>65mmHg, now run 6/hr(8.48mcg/min) [\/INST] Answer：levophed, 6cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml)×2A in D5W 125㏄ to keep MAP>65mmHg run 7 run 4.5ml/hr(3.0ug/min) [\/INST] Answer：levophed, 4.5㏄/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vials run 17cc/hr（ 0-20cc/hr、 90mmHg） [\/INST] Answer：levophed, 17cc/hr <\/s>"}
+{"text": "<s>[INST] D5W 250ml+levophed 4vial run 10cc_hr  run D5W 100ml+ [\/INST] Answer：levophed, 10ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vialmp+D5W 250ml run 0cc/he change to 1cc/he [\/INST] Answer：levophed, 1cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4A in D5W 250, run10cc/hr(range 0-30cc/hr, +-2cc/hr), keep MAP>70mmHg [\/INST] Answer：levophed, 10cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vial  run 0~30/hr(0~30)Keep MAP>65mmHg now 40cc_hr [\/INST] Answer：levophed, 40ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 4amps + D5W 250cc run 4cc/hr tapper ro run 3.3cc/hr(about:3mcg/min)range 0~30cc/hr to keep MAP>65mmHg [\/INST] Answer：levophed, 3.3cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/amp) 4Amp in D5W 250ml run 31cc/hr(about：30mcg/min) [\/INST] Answer：levophed, 31ml/hr <\/s>"}
+{"text": "<s>[INST] D5W 250ml+levophed(4mg/4ml)5vialmps trun run off。2. Sedation 7.5% PN 41cc_hr [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 4amps in D5W 250ml run 8 to 4ml/hr (about 4mcg/min，range 0-30ml/hr to keep MAP>65mmHg) [\/INST] Answer：levophed, 4ml/hr <\/s>"}
+{"text": "<s>[INST] levophed0.1㏄＋D5W 19.9㏄ 2㏄/hr [\/INST] Answer：levophed, 2cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 4vial in D5W 250ml run 12ml/hr(about 18mcg/minrange 0-30ml/her to keep MAP>65mmH [\/INST] Answer：levophed, 12ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 2amp+D5W 50ml run 4ml(=0.16mcg/kg/min) [\/INST] Answer：levophed, 4ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vial runrun 0cc_hr [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/amp)4amps+D5W 250ml run 1ml/hr adjust to 3ml/hr(5mcg/min) keep MAP>65mmHg [\/INST] Answer：levophed, 3ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml)×4A in D5W 250ml range 0-20cc/hr to keep MAP>65mmHg，now run 0.5 run 1.3cc/hr [\/INST] Answer：levophed, 1.3cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 2amp+D5W 250cc change to run 4cc/hr(3mcg/min,+- 2 c.c/hr, keep SBP>90) [\/INST] Answer：levophed, 4㏄/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amps run 2ml/hr change to run 3ml/hr [\/INST] Answer：levophed, 3ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml)2amp+D5W 50ml run 4.8ml(=0.11mcg/kg/min) [\/INST] Answer：levophed, 4.8cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/amp) 4vialmp in D5W 250ml run 1cc_hr and Taita No 5 run 60cc_hr and  [\/INST] Answer：levophed, 1ml/hr <\/s>"}
+{"text": "<s>[INST] D5W 250ml+levophed 4vialmps run 30cc_hr(about 31.8mcg_min,range 0-30cc_hr run keep SBP>90mmHg) [\/INST] Answer：levophed, 30ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 4amp in D50W 250ml run 9 ml/hr(=7mg/min) [\/INST] Answer：levophed, 9cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amp in D5W 250ml run 4ml/hr change 0.8ml/hr (range 0-20ml/hr to keep SBP>90mmHg) [\/INST] Answer：levophed, 0.8cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 1.7cc_hr run 4.0cc_hr, sedation 7cc_hr run 10cc_hr [\/INST] Answer：levophed, 4ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vials run 2.5ml/hr change to run 3 ml/hr(range 0~40ml/hr to keep SBP>91mmHg) [\/INST] Answer：levophed, 3ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 4A run 0-30cc keep MAP>65mmHg，now run 10cc/hr(1ug/min) [\/INST] Answer：levophed, 10cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4㎎/4ml)4A run 0~20㏄/hr to keep SBP >90mmHg，now run 8 cc/hr( 6.0ug/min) [\/INST] Answer：levophed, 8cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amp+D5W 250ml run 3cc/hr change to 13ml/hr(3mcg/min) [\/INST] Answer：levophed, 13cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 4amp in D5W 250cc run 30cc/hr，levophed run 60 cc/hr [\/INST] Answer：levophed, 60cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4A+D5W 250cc run 0-20㏄ to keep SBP>90mmHg，run 2.3cc change to 3 cc/hr(2ug/min) [\/INST] Answer：levophed, 3cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4mg/4mL 4Vial run 0-20ml/hr keep SBP >90mmHg,now run 1 run to 0.7 cc/hr about 0.55ug/min [\/INST] Answer：levophed, 0.7ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 8mg+D5W to 50ml run 4.0ml/hr(0.17mcg/kg/min) [\/INST] Answer：levophed, 4.0ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vials run 3ml/hr change to run 2ml/hr(range 0~40ml/hr to keep SBP>91mmHg) [\/INST] Answer：levophed, 2ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 2amp+D5W 250cc change run 6ml/hr(5mcg/min,+- 2 c.c/hr, keep SBP>90) [\/INST] Answer：levophed, 6㏄/hr <\/s>"}
+{"text": "<s>[INST] levophed 4 Amp in D5W 250 c.c run 10ml/hr change to 18ml/hr(run 5 c.c/hr initially and +/- 2 c.c/hr for keep SBP>90mmHg) [\/INST] Answer：levophed, 18ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4ml/4mg) 4amps in D5W 250ml run 4ml/hr add to 8 cc/hr(about 6mcg/min) [\/INST] Answer：levophed, 8ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vials run 18 ml/hr（ 0-20cc/hr、 90mmHg） [\/INST] Answer：levophed, 18cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vialmp in D5W 250ml run 0.5cc_hr run OFF(about 5cc_hr [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] D5W 250ml＋levophed 4vial run 12cc_hr [\/INST] Answer：levophed, 12ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml)×2A in D5W 125㏄ to keep MAP>65mmHg run 8 run 4.6 ㏄/hr(3.0ug/min) [\/INST] Answer：levophed, 4.6㏄/hr <\/s>"}
+{"text": "<s>[INST] levophed 4 vials run 1.5 ml/hr change to 2 ml/hr（about 1.06ug/min,range 0-20ml/hr to keep SBP>90mmHg） [\/INST] Answer：levophed, 2ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 4vialmp+D5W 250ml run 8 run 6cc_hr（6mcg_min）run 14 cc_hr +- 3cc_hr [\/INST] Answer：levophed, 14ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4㎎)4vial run 8ml/hr(5ug/min) use to keep MAP>65mmHg [\/INST] Answer：levophed, 8cc/hr <\/s>"}
+{"text": "<s>[INST] D5W 250ml＋levophed 4vial run 11cc_hr [\/INST] Answer：levophed, 11ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4ml/4mg)in D5W 250ml run 8cc_hr(about 4mcg_min)keep MAP>65  run 2 DC [\/INST] Answer：levophed, 8ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 2amp + D5W 250ml run 19gtt/hr  +/- 3 c.c./hr, to keep SBP > 95mmHg, range 0-20c.c./hr [\/INST] Answer：levophed, 19cc/hr <\/s>"}
+{"text": "<s>[INST] D5W 250ml+levophed(4mg/4ml) 4vialmp run 3run0cc_hr [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/amp) 2amp run 4 change to 4.5 ml/hr(about 1.5mcg/min) keep MAP>65mmHg [\/INST] Answer：levophed, 4.5cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4A+D5W 250cc run 0-20㏄ to keep MAP>65mmHg，now run 1.2 change to 3cc/he(1mcg_min) [\/INST] Answer：levophed, 3cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vialmp run 0cc_hr [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] levophad(4mg/4mL) 4amp run 19ml/hr(9mcg/min） [\/INST] Answer：levophed, 19cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amps in D5W 250ml run 3 run 13 cc/hr about 2mcg/min(±3cc/hr，range：0-30ml/hr，keep SBP>90mmHg) [\/INST] Answer：levophed, 13cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 1 Amp in 46 ml D5W, run 0-20 ml/hr to keep SBP > 90 mmHg now run 7ml/hr change to run 12ml/hr about 14.7mcg/min [\/INST] Answer：levophed, 12ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4㎎)2vial range 2㏄/hr to 5.9cc/hr, now run 6.6 use to keep SBP>90mmHg [\/INST] Answer：levophed, 6.6 cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 1Vial in D5W 46ml run 1ml change to run 1.5ml/hr about 0.65 mcg/min(0-20ml/hr to keep SBP > 91mmHg) [\/INST] Answer：levophed, 1.5ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vial+ 250cc D5W, initial dose 12ml/hr, +/- 3cc/hr range(0-30cc/hr),keep SBP > 90mmHg [\/INST] Answer：levophed, 12cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amps run 3 ml/hr change to run 12ml/hr (about 0 ug/min,range 0-31ml/hr) [\/INST] Answer：levophed, 12ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/amp) 4vialmps run 3.5ml run 3cc_hr [\/INST] Answer：levophed, 3ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amp+D5W 250ml run 3cc/hr run 11ml/hr(1mcg/min) [\/INST] Answer：levophed, 11cc/hr <\/s>"}
+{"text": "<s>[INST] D5W 250cc+levophed(4mg/4ml) 4A run 0-30cc keep MAP>65mmHg，now run 19 change17cc/hr(17ug/min) [\/INST] Answer：levophed, 17cc/hr <\/s>"}
+{"text": "<s>[INST] D5W250ml+levophed 4vial 0-40 cc/he(keep MAP>65mmHg)，0.45 G/S run 45cc [\/INST] Answer：levophed, 45cc/hr <\/s>"}
+{"text": "<s>[INST] D5W 250ml+levophed 4vialial run 8cc/he [\/INST] Answer：levophed, 8cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amps in D5W 250ml run 3 run 14 c/hr about 2mcg/min(±3cc/hr，range：0-30ml/hr，keep SBP>90mmHg) [\/INST] Answer：levophed, 14cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amp in 250cc D5W,range: 0-20cc,+/-1cc,keep MAP>65mmHg,now run 16cc [\/INST] Answer：levophed, 16cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 4vialmp+D5W 250ml run 15 run 13cc_hr（13mcg_min）run 15 cc_hr +- 2cc_hr [\/INST] Answer：levophed, 15ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/vial) 4vial in D5W 250ml run 7ml change to 20ml/hr(about：10mcg/min，range：0-40ml/hr for keep MAP>65mmHg) [\/INST] Answer：levophed, 20ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vialmp+D5W 250ml run 0.6cc/he change to 3cc/he [\/INST] Answer：levophed, 3cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 2A +D5W 250ML(KEEP BP >90mmHg，run 0-40ml/hr)new run 1ml/hr change to 7 ml/hr [\/INST] Answer：levophed, 7ml/hr <\/s>"}
+{"text": "<s>[INST] levophed (4mg/4ml) 4vial+D5W 250ml run 3.5cc/he change 3.3 cc/he(about 3mcg_min [\/INST] Answer：levophed, 3.3 cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vial+ 250cc D5W, initial dose 10cc/hr, +/- 3cc/hr range(0-30cc/hr),keep SBP > 90mmHg [\/INST] Answer：levophed, 10cc/hr <\/s>"}
+{"text": "<s>[INST] D5W 250ml+levophedhend 4vialmp run0cc_hr [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml)2amp+D5W 50ml run 3.8ml(=0.15mcg/kg/min) [\/INST] Answer：levophed, 3.8ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 1vialmp in D5W 50ml run 1.2cc_hr run run 0cc_hr(run 0 ~ 12 cc_hr [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amps run 2ml/hr change to run 1ml/hr [\/INST] Answer：levophed, 1ml/hr <\/s>"}
+{"text": "<s>[INST] D5W 250ml+levophed 4vial run 1cc_hr run ro 6cc_hr [\/INST] Answer：levophed, 6ml/hr <\/s>"}
+{"text": "<s>[INST] levophad primix 25㏄/hr [\/INST] Answer：levophed, 25cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 2vialmps run 7.5cc_hr run run 7cc_hr [\/INST] Answer：levophed, 7ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4mg/4ml/vial 1vialial in D5W 46 ml run 0-15 cc_hr keep SBP 120-160 mmHg now run 3cc_hr run run 22cc_hr [\/INST] Answer：levophed, 22ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vial +D5W 250ml run change to 8 cc(about 5mcg/min, range 0-30cc/hr keep MAP >65mmHg、A-line stay(op site cove [\/INST] Answer：levophed, 8cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/vial) 4vial in D5W 250ml run 7ml change to 22(about：10mcg/min，range：0-40ml/hr for keep MAP>67mmHg) [\/INST] Answer：levophed, 22ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4㎎)2vial range 2㏄/hr to 5.8cc/hr, now run 6.5 cc/hr use to keep SBP>90mmHg [\/INST] Answer：levophed, 6.5 cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml)4A run 0-30cc keep MAP>65mmHg,now run 12 run 14 ml/r(8.0ug/min) [\/INST] Answer：levophed, 14cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/vial) 4vialial in D5W 250ml 3 cc/he change run to 2.3 [\/INST] Answer：levophed, 2.3 cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 8mg in D5W 125ml range 0-20cc/hr to keep MAP>65mmHg，now run change to 14 ml/hr(4.24mcg/min) [\/INST] Answer：levophed, 14cc/hr <\/s>"}
+{"text": "<s>[INST] levophed（4mg/4ml/amp）4vialial+D5W 250ml iv-drip run 14cc_hr [\/INST] Answer：levophed, 14ml/hr <\/s>"}
+{"text": "<s>[INST] D5W 250cc levophed(4㎎)2vialial range 2㏄/hr to 2.8cc/hr use to run 5.5ml/hr [\/INST] Answer：levophed, 5.5 ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 8mg in D5W 250cc run run 4cc(4.24mcg/min) [\/INST] Answer：levophed, 4cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4ml/4mg)in D5W 250ml run 4cc_hr(about 4mcg_min)keep MAP>65 [\/INST] Answer：levophed, 4ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 2A IN D5W 250ML RUN 5ML/HR +- 2ML/HR TO KEEP SBP>90,10ML change to 13ML [\/INST] Answer：levophed, 13ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vials run 2ml/hr change to 4ml/hr(about 0ug/min, range 0-40ml/hr to keep SBP>94mmHg) [\/INST] Answer：levophed, 4ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/vial) 4vial in D5W 250ml run 1.5cc_hr run 4cc_hr [\/INST] Answer：levophed, 4ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vial in D5W(250) run 10cc/he(0~30) MAP>65mmHg,至0 DC，now run 3.5cc/he change to 6cc/he(1mcg_min [\/INST] Answer：levophed, 6cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vialmp(16mg) in D5W 250ml run 16 cc_hr [\/INST] Answer：levophed, 16ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amps run 27ml/hr(about 28.62ug/min,range 0 - 40 ml/hr to keep SBP > 90mmHg) [\/INST] Answer：levophed, 27ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 2A +D5W 250ML(KEEP BP >90mmHg，run 0-40ml/hr) run 1ml/hr to 4 cc/hr [\/INST] Answer：levophed, 4ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4cc)4amps add in D5W 250cc run 5 to 3 cc/hr (about：4mcg/min，range 0-30cc/hr，keep MAP > 65mmHg) [\/INST] Answer：levophed, 3cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vial in D5W(250) run 10cc/he(0~30) MAP>65mmHg,至0 DC，now run 3cc/he change to 8ml/hr(mcg_min [\/INST] Answer：levophed, 8cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 0.1ml+N/S to 20ml run 13cc/hr [\/INST] Answer：levophed, 13 ml/hr <\/s>"}
+{"text": "<s>[INST] levophed*(3mg/200mL) Run 10cc/hr +- 4cc to keep MAP>65mmHg,range 0-30cc/hr,now run 20 change to 34 ml/hr(21.0mcg/kg/min) [\/INST] Answer：levophed, 34cc/hr <\/s>"}
+{"text": "<s>[INST] levophed (4mg/4ml) 4vial+D5W 250ml run 3.5cc/he change to 5cc/he(about 3mcg_min [\/INST] Answer：levophed, 5cc/hr <\/s>"}
+{"text": "<s>[INST] D5W250ml+levophed 4vial 0-40 cc/he(keep MAP>65mmHg)，0.45 G/S run 42cc/he [\/INST] Answer：levophed, 42cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vial run run 1cc/he [\/INST] Answer：levophed, 1ml/hr <\/s>"}
+{"text": "<s>[INST] levophed rate:30ml/h run 28ml/hr，BP:188/86mmHg、PR:95，UFR：1.0 kg/hr，by BP keep obs。 [\/INST] Answer：levophed, 28ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 4amps + D5W 250cc run 4cc/hr tapper ro run 3.1cc/hr(about:3mcg/min)range 0~30cc/hr to keep MAP>65mmHg [\/INST] Answer：levophed, 3.1cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4V in D5W 250ml run 32ml/hr about 31.8mcg/min to keep SBP>90mmHg(range 0-30ml/hr) [\/INST] Answer：levophed, 32ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4A+D5W 250cc run 0-20㏄ to keep MAP>65mmHg，now run 3.3change to 4 cc/he(1mcg_min) [\/INST] Answer：levophed, 4cc/hr <\/s>"}
+{"text": "<s>[INST] D5W 250ml+levophed 4vialial run 8cc [\/INST] Answer：levophed, 8cc/hr <\/s>"}
+{"text": "<s>[INST] D5W 250ml+levophed 4vial run 1cc_hr run ro 3cc_hr [\/INST] Answer：levophed, 3ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vials run 2ml/hr run  5 ml/hr(about 0ug/min, range 0-40ml/hr to keep SBP>94mmHg) [\/INST] Answer：levophed, 5 ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 8mg+D5W to 50ml run 6.0ml/hr(0.17mcg/kg/min) [\/INST] Answer：levophed, 6.0ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/amp) 4amps in D5W 250ml run 10mmHg(about 10mcg/min，range 0~30ml/hr to keep MAP>65mmHg) [\/INST] Answer：levophed, 10cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4cc) 2amp run 8ml(5.3ug/min). [\/INST] Answer：levophed, 8cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 8vial run run 2 m/hr [\/INST] Answer：levophed, 2ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amp+D5W 250ml run 3cc/hr change to 11ml/hr(1mcg/min) [\/INST] Answer：levophed, 11cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/vial) 4vial in D5W 250ml run 8ml change to 21 ml/hr(about：10mcg/min，range：0-40ml/hr for keep MAP>66mmHg) [\/INST] Answer：levophed, 21ml/hr <\/s>"}
+{"text": "<s>[INST] D5W 250ml+levophed 4vial   6cc_hr  run   5cc_hr(range 0-20 cc_hr [\/INST] Answer：levophed, 5ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4A+D5W 250cc run 0-30cc/hr，keep SBP>90mmHg，now run 23㏄/hr run 24㏄/hr(25ug/min) [\/INST] Answer：levophed, 24cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 0.1ml+N/S to 20ml run 14 cc/hr [\/INST] Answer：levophed, 14 ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4A+D5W 250cc run 0-20㏄ to keep SBP>90mmHg，run 0 change to 2cc/hr(2ug/min) [\/INST] Answer：levophed, 2cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4 vials run 1.5 ml/hr change to 3 ml/hr（about 1.06ug/min,range 0-20ml/hr to keep SBP>90mmHg） [\/INST] Answer：levophed, 3ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vialmps run 0cc_hr run  0.5cc_hr [\/INST] Answer：levophed, 0.5ml/hr <\/s>"}
+{"text": "<s>[INST] D5W 250cc+levophed 4vial run 6.4cc/hr，run D5W run 100cc/hr [\/INST] Answer：levophed, 6.4cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 4amps + D5W 250cc run 4cc/hr run 3.5cc/hr(about:3mcg/min)range 0~30cc/hr to keep MAP>65mmHg [\/INST] Answer：levophed, 3.5cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml)×2A in D5W 125㏄ to keep MAP>65mmHg run 5(3.0ug/min) [\/INST] Answer：levophed, 5㏄/hr <\/s>"}
+{"text": "<s>[INST] levophed 1 Amp in 46 ml D5W, run 0-20 ml/hr to keep SBP > 90 mmHg now run 7ml/hr change to run 11ml/hr about 14.6mcg/min [\/INST] Answer：levophed, 11ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 2vial in D5W 250 run 1ml/hr run run 2ml/hr (about 2mcg/min) [\/INST] Answer：levophed, 2ml/hr <\/s>"}
+{"text": "<s>[INST] D5W 250㏄+levophed(4㎎/4ml) 4vial run 0~20ml/hr to keep MAP>65mmHg，now run 2 change 1 cc/hr(1ug/min) [\/INST] Answer：levophed, 1cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amp(4mg/4ml/amp) in D5W 250ml run 3ml/hr run 12ml/hr(12mcg/min) [\/INST] Answer：levophed, 12ml/hr <\/s>"}
+{"text": "<s>[INST] levophad primix 22㏄/hr [\/INST] Answer：levophed, 22cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/amp) 4amps in D5W 250ml run 20mmHg(about 10mcg/min，range 0~30ml/hr to keep MAP>65mmHg) [\/INST] Answer：levophed, 20cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amps run 3 ml/hr change to run 13ml/hr (about 0 ug/min,range 0-32ml/hr) [\/INST] Answer：levophed, 13ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vialmp in D5W 250ml run 1cc_hr run OFF(about 5cc_hr [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vialmp+D5W 250ml run 0cc/he  run  1cc/he [\/INST] Answer：levophed, 1cc/hr <\/s>"}
+{"text": "<s>[INST] levophed0.1㏄＋D5W 19.9㏄ 3 ml/hr [\/INST] Answer：levophed, 3cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(250mg/20mL) 2vials in N/S 210cc run 17.1ml/hr(about：10mcg/kg/min，range 3~20ug/kg/min to keep C.I.>2.2) [\/INST] Answer：levophed, 17.1ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 2vialmps run 13.5cc_hr run run 13cc_hr [\/INST] Answer：levophed, 13ml/hr <\/s>"}
+{"text": "<s>[INST] D5W250ml+levophed 4vialmps run 8cc_hr run 1cc_hr [\/INST] Answer：levophed, 1ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4mL) 4vial in D5W 250ml run 13 cc/hr(about 25mcg/min，range 0-30ml/hr，keep SBP>90 mmHg) [\/INST] Answer：levophed, 13ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vials run 3ml/hr run run 6 cc/hr(range 0~40ml/hr to keep SBP>92mmHg) [\/INST] Answer：levophed, 6ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vial +D5W 250ml run to 6cc(about 5mcg/min, range 0-30cc/hr keep MAP >65mmHg、A-line stay(op site cove [\/INST] Answer：levophed, 6cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vial in D5W(250) run 10cc/he(0~30) MAP>65mmHg,至0 DC，now run 3cc/he run 8ml/hr(mcg_min [\/INST] Answer：levophed, 8cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 2amp+D5W 50ml run 5 ml(=0.16mcg/kg/min) [\/INST] Answer：levophed, 5ml/hr <\/s>"}
+{"text": "<s>[INST] levophed（4mg/4ml/amp）4vialial+D5W 250ml iv-drip run 8cc_hr [\/INST] Answer：levophed, 8ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 8mg in D5W 125ml range 0-20cc/hr to keep MAP>65mmHg，now run run 14 ml/hr(4.24mcg/min) [\/INST] Answer：levophed, 14cc/hr <\/s>"}
+{"text": "<s>[INST] D5W 250ml +levophed(4mg/4ml) 4vial run 0-30cc_hr run keep MAP>65mmHg，now run 16cc_hr(16mcg_min)，2. [\/INST] Answer：levophed, 16ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vialmp+D5W 250 PUMP RUN 44cc_hr, run 3cc_hr PER TIMES run KEEP MAP>65 MMHG, (UPPER LIMIT 50cc_hr [\/INST] Answer：levophed, 44ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/vial)4vial in D5W 250ml run 3.5ml run 9cc_hr(about 3mcg_min，range 0-40cc_hr run keep MAP>65mmHg) [\/INST] Answer：levophed, 9ml/hr <\/s>"}
+{"text": "<s>[INST] D5W 250ml+levophed(4mg/4ml)4vialmps trun run off。2. Sedation 7.5% PN 40cc_hr [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4mL) 2vial in D5W 250ml run 10 run 15cc/hr(about 15mcg/min，range 0-30ml/hr，keep SBP>90 mmHg [\/INST] Answer：levophed, 15cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml)×4A in D5W 250ml range 0-20cc/hr to keep MAP>65mmHg，now run 0.5 run1.5cc/hr [\/INST] Answer：levophed, 1.5cc/hr <\/s>"}
+{"text": "<s>[INST] levophed rate:30ml/h run 30.5 ml/hr，BP:188/86mmHg、PR:95，UFR：1.0 kg/hr，by BP keep obs。 [\/INST] Answer：levophed, 30.5ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4mg/4ml/vial 1vialial in D5W 46 ml run 0-15 cc_hr keep SBP 120-160 mmHg now run 3cc_hr run run 12cc_hr [\/INST] Answer：levophed, 12ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vail in D5W 250ml run 5cc/hr(about 4mcg/min) [\/INST] Answer：levophed, 5cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amp+D5W 250ml run 3cc/hr run 13ml/hr(3mcg/min) [\/INST] Answer：levophed, 13cc/hr <\/s>"}
+{"text": "<s>[INST] levophad(4mg/4mL) 4amp run 18 ㏄/hr(9mcg/min） [\/INST] Answer：levophed, 18cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vialmp+D5W 250ml run 0.5cc/he  run  2cc/he [\/INST] Answer：levophed, 2cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4ml/4mg) 4amps in D5W 250ml run 4ml/hr add to 9(about 6mcg/min) [\/INST] Answer：levophed, 9ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amps run12 ml/hr change to run 16ml/hr(about10.6ug/min,range 0-30ml/hr to keep SBP>90mmHg) [\/INST] Answer：levophed, 16ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/Amp) 4vialmp in D5W 250ml run 16cc_hr(about 15mcg_min，keep SBP>90mmHg，range 0-30cc_hr) [\/INST] Answer：levophed, 16ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 4A run 0-30cc keep MAP>65mmHg，now run 1 run 2 cc/hr(0ug/min) [\/INST] Answer：levophed, 2cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 8mg+D5W to 50ml run 5.0ml/hr(0.17mcg/kg/min) [\/INST] Answer：levophed, 5.0ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 2amp + D5W 250ml run 17gtt/hr  +/- 3c.c./hr, to keep SBP > 95mmHg, range 0-20c.c./hr [\/INST] Answer：levophed, 17cc/hr <\/s>"}
+{"text": "<s>[INST] levophed (4mg/4ml) 4vial+D5W 250ml run 3.5cc/he change 5cc/he(about 3mcg_min [\/INST] Answer：levophed, 5cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/amp)4amps+D5W 250ml run 1ml/hr adjust to 3 cc/hr(5mcg/min) keep MAP>65mmHg [\/INST] Answer：levophed, 3ml/hr <\/s>"}
+{"text": "<s>[INST] D5W 250cc levophed(4㎎)2vial range 2㏄/hr to 4.8cc/hr use to run  [\/INST] Answer：levophed, 4.8 ㏄/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml)4vial run 22 run 25cc_hr [\/INST] Answer：levophed, 25ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml)4A run 0-30cc keep MAP>65mmHg,now run 14.5 run 15(13ug/min) [\/INST] Answer：levophed, 15cc/hr <\/s>"}
+{"text": "<s>[INST] levophed (4mg/4ml) 4vial+D5W 250ml run 3.5cc/he to 4cc/he(about 3mcg_min [\/INST] Answer：levophed, 4cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vial run run 3 [\/INST] Answer：levophed, 3ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 12.5mg+D5W 70ml/hr to (mcg/kg/min) [\/INST] Answer：levophed, None <\/s>"}
+{"text": "<s>[INST] levophed 4vial +D5W 250ml run change to 7cc(about 5mcg/min, range 0-30cc/hr keep MAP >65mmHg、A-line stay(op site cove [\/INST] Answer：levophed, 7cc/hr <\/s>"}
+{"text": "<s>[INST] D5W250ml+levophed 4vial 0-40 cc/he(keep MAP>65mmHg)，0.45 G/S run 44ml/hr [\/INST] Answer：levophed, 44cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vial run 0.5cc_hrrun0cc_hr [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 10 cc/hr，BP：111/75mmHg，HR： 87bpm，total UF：0kg/HD 2.5 [\/INST] Answer：levophed, 10 ml/hr <\/s>"}
+{"text": "<s>[INST] D5W 250ml+levophedhend 4vialmps run0cc_hr [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/vial)4vial in D5W 250ml run 3.5ml run 7cc_hr(about 3mcg_min，range 0-40cc_hr run keep MAP>65mmHg) [\/INST] Answer：levophed, 7ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/amp) 4vialmps run 3.5ml run 9cc_hr [\/INST] Answer：levophed, 9ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml)4A run 0-30cc keep MAP>65mmHg,now run 9cc/hr [\/INST] Answer：levophed, 9cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 1Vial in D5W 46ml run 1ml to run 3.5ml/hr about 0.65 mcg/min(0-20ml/hr to keep SBP > 93mmHg) [\/INST] Answer：levophed, 3.5ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml)×2A in D5W 125㏄ to keep MAP>65mmHg run 10 run 6㏄/hr(3.0ug/min) [\/INST] Answer：levophed, 6㏄/hr <\/s>"}
+{"text": "<s>[INST] levophed 1.7cc_hr run 3.0cc_hr, sedation 7cc_hr run 9cc_hr [\/INST] Answer：levophed, 3ml/hr <\/s>"}
+{"text": "<s>[INST] levophed (4mg/4ml) 4vial+D5W 250ml run 3.5cc/he change 4cc/he(about 3mcg_min [\/INST] Answer：levophed, 4cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml)×2A in D5W 125㏄ to keep MAP>65mmHg run 6 run 4.4㏄/hr(3.0ug/min) [\/INST] Answer：levophed, 4.4㏄/hr <\/s>"}
+{"text": "<s>[INST] levophed D5W250cc (0.5mg/10ml) range 1.1-4.5cc/hr  [\/INST] Answer：levophed, 1.1cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vial+ 250cc D5W, initial dose 11 cc/hr, +/- 3cc/hr range(0-30cc/hr),keep SBP > 90mmHg [\/INST] Answer：levophed, 11cc/hr <\/s>"}
+{"text": "<s>[INST] D5W 250cc+levophed(4mg/4ml) 4A run 0-30cc keep MAP>65mmHg，now run 6 change 5 ml/hr(5ug/min) [\/INST] Answer：levophed, 5cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 4amp in D5W 250cc run 30cc/hr，levophed run 40cc/hr [\/INST] Answer：levophed, 40cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 1Vial in D5W 46ml run 1ml change run 3.5ml/hr about 0.65 mcg/min(0-20ml/hr to keep SBP > 93mmHg) [\/INST] Answer：levophed, 3.5ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/amp)4amps+D5W 250ml run 1ml/hr adjust to 3(5mcg/min) keep MAP>65mmHg [\/INST] Answer：levophed, 3ml/hr <\/s>"}
+{"text": "<s>[INST] levophed run 15ml/hr，L/R 1B IVD ST、0.45G/S run 100ml/hr [\/INST] Answer：levophed, 15ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amps in D5W 250ml run 3 change to 13 cc/hr about 2mcg/min(±3cc/hr，range：0-30ml/hr，keep SBP>90mmHg) [\/INST] Answer：levophed, 13cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 4amps + D5W 250cc run 4cc/hr tapper ro run 3.2cc/hr(about:3mcg/min)range 0~30cc/hr to keep MAP>65mmHg [\/INST] Answer：levophed, 3.2cc/hr <\/s>"}
+{"text": "<s>[INST] D5W 250ml+levophed 4vial(4mg/4ml)run 0-30ml run keep SBP>90mmHg now run 2 run cc_hr(2mcg_min)tapping OFF [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] levophed* inj 4mg/4ml  4 vial+D5W 250ml run 0-30 cc_hr run keep SBP > 90 mmHg，now run 5cc_hr [\/INST] Answer：levophed, 5ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vial IN D5W 250ml RUN 10cc_hr +- 2cc_hr run KEEP MAP>65mmHg(RANGE 0-30cc_hr),now 3cc_hr(3.0mcg_min [\/INST] Answer：levophed, 3ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 2vialmps run 4.5 cc_hr run 4 cc_hr [\/INST] Answer：levophed, 4ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vialrun 0cc/hr run 15cc/hr(0-20cc/hr， 90mmHg) [\/INST] Answer：levophed, 15cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amps run12 ml/hr change to run 15ml/hr(about10.6ug/min,range 0-30ml/hr to keep SBP>90mmHg) [\/INST] Answer：levophed, 15ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/Amp) 4vialmp in D5W 250ml run 18cc_hr(about 15mcg_min，keep SBP>90mmHg，range 0-30cc_hr) [\/INST] Answer：levophed, 18ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vialmp+D5W 250ml range 0-30 cc_hr,keep SBP>90mmHg,now run >30cc_hr(31.8mcg_min) [\/INST] Answer：levophed, 30ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 0.1ml+N/S to 20ml run 12 [\/INST] Answer：levophed, 12 ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vial+D5W 250ml run 10 run 15cc_hr [\/INST] Answer：levophed, 15ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 8mg in D5W 125ml range 0-20cc/hr to keep MAP>65mmHg，now run change to 12(3.18mcg/min) [\/INST] Answer：levophed, 12cc/hr <\/s>"}
+{"text": "<s>[INST] D5W 250ml+levophed 4vialial run 10cc/he，run D5W run 100cc/he [\/INST] Answer：levophed, 10cc/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 4amp in D50W 250ml run 8 cc/hr(=7mg/min) [\/INST] Answer：levophed, 8cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vialmp+D5W 250 PUMP RUN 20cc_hr, run 3cc_hr PER TIMES run KEEP MAP>65 MMHG, (UPPER LIMIT 50cc_hr [\/INST] Answer：levophed, 20ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amp+D5W 250ml run 3cc/hr run 12ml/hr(2mcg/min) [\/INST] Answer：levophed, 12cc/hr <\/s>"}
+{"text": "<s>[INST] levophed run 4 ml/hr [\/INST] Answer：levophed, 4 ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4amps run12 ml/hr change to run 17 ml/hr(about10.6ug/min,range 0-30ml/hr to keep SBP>90mmHg) [\/INST] Answer：levophed, 17ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/amp)4AMPS in D5W 250ml run 3cc/hr change 8 ml/hr (about 2mcg/min) keep SBP>91mmHg [\/INST] Answer：levophed, 8cc/hr <\/s>"}
+{"text": "<s>[INST] levophed2vial run 2( 0-30ml/hr) [\/INST] Answer：levophed, 2ml/hr <\/s>"}
+{"text": "<s>[INST] D5W+levophed 4vialrun RUN 24cc_hr  run  run  30cc_hr [\/INST] Answer：levophed, 30ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml)×2A in D5W 125㏄ to keep MAP>65mmHg run 4(3.0ug/min) [\/INST] Answer：levophed, 4㏄/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 4A run 0-30cc keep MAP>65mmHg，now run cc/hr(ug/min) [\/INST] Answer：levophed, None <\/s>"}
+{"text": "<s>[INST] levophed 4A in D5W 250, run11ml/hr(range 0-30cc/hr, +-2cc/hr), keep MAP>70mmHg [\/INST] Answer：levophed, 11cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 2A IN D5W 250ML RUN 10ML/HR +- 2ML/HR TO KEEP SBP>90,10ML change to 12ML [\/INST] Answer：levophed, 12ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/amp) 2amp run 3  change to 4.4cc/hr(about 1.5mcg/min) keep MAP>65mmHg [\/INST] Answer：levophed, 4.4cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 1Vial in D5W 46ml run 1ml change run 2.5ml/hr about 0.65 mcg/min(0-20ml/hr to keep SBP > 92mmHg) [\/INST] Answer：levophed, 2.5ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml/amp) 4vialmps in D5W 250ml run 0.5 run 33cc_hr），HR:84BPM，RR:22BPM，SpO2:97%，lip & pink but cold，circulation OK，，oral discharge，prn suction [\/INST] Answer：levophed, 33ml/hr <\/s>"}
+{"text": "<s>[INST] levophed(4mg/4ml) 4amps in D5W 250ml run 8 change to 4ml/hr (about 4mcg/min，range 0-30ml/hr to keep MAP>65mmHg) [\/INST] Answer：levophed, 4ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4vial in D5W(250) run 10cc/he(0~30) MAP>65mmHg,至0 DC，now run 6.5ml/hr change to 7 cc/hr(1mcg_min [\/INST] Answer：levophed, 7cc/hr <\/s>"}
+{"text": "<s>[INST] levophed 2vialmp in D5W 250ml  run  11cc_hr run 14cc_hr （ Run 10 cc_hr +- 2 cc_hr [\/INST] Answer：levophed, 14ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 4 Amp in D5W 250 c.c run 10ml/hr change to 19 ml/hr(run 6 c.c/hr initially and +/- 2 c.c/hr for keep SBP>90mmHg) [\/INST] Answer：levophed, 19ml/hr <\/s>"}
+{"text": "<s>[INST] D5W 250ml+levophed 16mg，run cc/hr(7mcg_min [\/INST] Answer：levophed, None <\/s>"}
+{"text": "<s>[INST] levophed 1 Amp in 46 ml D5W, run 0-20 ml/hr to keep SBP > 90 mmHg now run 7ml/hr to run 15 ml/hr about 14.9mcg/min [\/INST] Answer：levophed, 15ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 2amp + D5W 250ml run 18gtt/hr  +/- 3c.c./hr, to keep SBP > 95mmHg, range 0-20c.c./hr [\/INST] Answer：levophed, 18cc/hr <\/s>"}
+{"text": "<s>[INST] levophed rate:30ml/h change to 28ml/hr，BP:188/86mmHg、PR:95，UFR：1.0 kg/hr，by BP keep obs。 [\/INST] Answer：levophed, 28ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 1vialmp in D5W 46ml run 0.5cc_hr run run 0cc_hr(run 0 ~ 10 cc_hr [\/INST] Answer：levophed, 0ml/hr <\/s>"}
+{"text": "<s>[INST] levophed 2A IN D5W 250ML RUN 6 ML/HR +- 2ML/HR TO KEEP SBP>90 [\/INST] Answer：levophed, 6ml/hr <\/s>"}
